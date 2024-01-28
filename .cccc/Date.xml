@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Detailed report on module Date-->
+<CCCC_Project>
+<module_summary>
+<lines_of_code value="106" level="0" />
+<lines_of_code_per_member_function value="******" level="0" />
+<McCabes_cyclomatic_complexity value="8" level="0" />
+<McCabes_cyclomatic_complexity_per_member_function value="******" level="2" />
+<lines_of_code value="16" level="0" />
+<lines_of_code_per_member_function value="********" level="2" />
+<lines_of_code_per_line_of_comment value="6.625" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="0.500" level="0" />
+<weighted_methods_per_class_unity value="9" level="0" />
+<weighted_methods_per_class_visibility value="9" level="0" />
+<depth_of_inheritance_tree value="0" level="0" />
+<number_of_children value="0" level="0" />
+<coupling_between_objects value="3" level="0" />
+<IF4 value="4" level="0" />
+<IF4_per_member_function value="********" level="2" />
+<IF4_visible value="0" level="0" />
+<IF4_visible_per_member_function value="********" level="0" />
+<IF4_concrete value="0" level="0" />
+<IF4_concrete_per_member_function value="********" level="0" />
+</module_summary>
+<module_detail>
+<description>declaration</description>
+<source_reference file="sda.cpp" line="10" />
+<lines_of_code value="1" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+<description>definition</description>
+<source_reference file="sda.cpp" line="120" />
+<lines_of_code value="8" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="2" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+<description>declaration</description>
+<source_reference file="sda.cpp" line="10" />
+<lines_of_code value="1" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+<description>definition</description>
+<source_reference file="sda.cpp" line="120" />
+<lines_of_code value="8" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="2" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</module_detail>
+<procedural_detail>
+<member_function>
+<name>Date(...)</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="159" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="159" />
+</extent>
+<lines_of_code value="14" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>Date(Date &amp;)</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="167" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="167" />
+</extent>
+<lines_of_code value="14" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="8" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>getdate()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="142" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="142" />
+</extent>
+<lines_of_code value="8" level="0" />
+<McCabes_cyclomatic_complexity value="2" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>getday()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="137" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="137" />
+</extent>
+<lines_of_code value="8" level="0" />
+<McCabes_cyclomatic_complexity value="2" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>getmonth()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="132" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="132" />
+</extent>
+<lines_of_code value="8" level="0" />
+<McCabes_cyclomatic_complexity value="2" level="0" />
+<lines_of_comment value="2" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>getyear()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="147" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="147" />
+</extent>
+<lines_of_code value="8" level="0" />
+<McCabes_cyclomatic_complexity value="2" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>printDate(void)</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="152" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="152" />
+</extent>
+<lines_of_code value="10" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>saveDate(ofstream &amp;)</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="183" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="183" />
+</extent>
+<lines_of_code value="16" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>~Date()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="181" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="181" />
+</extent>
+<lines_of_code value="2" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="2" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+</procedural_detail>
+<structural_detail>
+<module>
+<name>Date</name>
+<client_module>
+<name>Evaluation</name>
+<visible>false</visible>
+<concrete>false</concrete>
+<extent>
+<description>has by reference</description>
+<source_reference file="sda.cpp" line="1679" />
+</extent>
+<extent>
+<description>has by reference</description>
+<source_reference file="sda.cpp" line="1679" />
+</extent>
+<name>User</name>
+<visible>false</visible>
+<concrete>false</concrete>
+<extent>
+<description>has by reference</description>
+<source_reference file="sda.cpp" line="200" />
+</extent>
+<extent>
+<description>has by reference</description>
+<source_reference file="sda.cpp" line="200" />
+</extent>
+</client_module>
+<supplier_module>
+<name>ofstream</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>pass by reference</description>
+<source_reference file="sda.cpp" line="183" />
+</extent>
+<extent>
+<description>pass by reference</description>
+<source_reference file="sda.cpp" line="183" />
+</extent>
+</supplier_module>
+</module>
+</structural_detail>
+</CCCC_Project>

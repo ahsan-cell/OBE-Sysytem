@@ -1,0 +1,616 @@
+CCCC_Module@CLO@class@
+CCCC_ModExt@CLO@class@sda.cpp@17@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@CLO@class@sda.cpp@435@definition@F???2@LOC:9 COM:1 MVG:0@2@d@
+CCCC_ModExt@CLO@class@sda.cpp@17@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@CLO@class@sda.cpp@435@definition@F???2@LOC:9 COM:1 MVG:0@2@d@
+CCCC_Module@Course@class@
+CCCC_ModExt@Course@class@sda.cpp@13@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@Course@class@sda.cpp@560@definition@F???2@LOC:10 COM:0 MVG:0@2@d@
+CCCC_ModExt@Course@class@sda.cpp@13@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@Course@class@sda.cpp@560@definition@F???2@LOC:10 COM:0 MVG:0@2@d@
+CCCC_Module@Date@class@
+CCCC_ModExt@Date@class@sda.cpp@10@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@Date@class@sda.cpp@120@definition@F???2@LOC:8 COM:2 MVG:0@2@d@
+CCCC_ModExt@Date@class@sda.cpp@10@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@Date@class@sda.cpp@120@definition@F???2@LOC:8 COM:2 MVG:0@2@d@
+CCCC_Module@Evaluation@class@
+CCCC_ModExt@Evaluation@class@sda.cpp@12@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@Evaluation@class@sda.cpp@1675@definition@F???2@LOC:8 COM:2 MVG:0@2@d@
+CCCC_ModExt@Evaluation@class@sda.cpp@12@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@Evaluation@class@sda.cpp@1675@definition@F???2@LOC:8 COM:2 MVG:0@2@d@
+CCCC_Module@PLO@class@
+CCCC_ModExt@PLO@class@sda.cpp@18@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@PLO@class@sda.cpp@272@definition@F???2@LOC:8 COM:3 MVG:0@2@d@
+CCCC_ModExt@PLO@class@sda.cpp@18@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@PLO@class@sda.cpp@272@definition@F???2@LOC:8 COM:3 MVG:0@2@d@
+CCCC_Module@Program@class@
+CCCC_ModExt@Program@class@sda.cpp@16@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@Program@class@sda.cpp@760@definition@F???2@LOC:8 COM:2 MVG:0@2@d@
+CCCC_ModExt@Program@class@sda.cpp@16@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@Program@class@sda.cpp@760@definition@F???2@LOC:8 COM:2 MVG:0@2@d@
+CCCC_Module@Question@class@
+CCCC_ModExt@Question@class@sda.cpp@19@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@Question@class@sda.cpp@1577@definition@F???2@LOC:10 COM:1 MVG:0@2@d@
+CCCC_ModExt@Question@class@sda.cpp@19@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@Question@class@sda.cpp@1577@definition@F???2@LOC:10 COM:1 MVG:0@2@d@
+CCCC_Module@Teacher@class@
+CCCC_ModExt@Teacher@class@sda.cpp@14@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@Teacher@class@sda.cpp@1925@definition@F???0@LOC:9 COM:3 MVG:0@0@d@
+CCCC_ModExt@Teacher@class@sda.cpp@14@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@Teacher@class@sda.cpp@1925@definition@F???0@LOC:9 COM:3 MVG:0@0@d@
+CCCC_Module@Topic@class@
+CCCC_ModExt@Topic@class@sda.cpp@20@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@Topic@class@sda.cpp@1831@definition@F???2@LOC:7 COM:0 MVG:0@2@d@
+CCCC_ModExt@Topic@class@sda.cpp@20@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@Topic@class@sda.cpp@1831@definition@F???2@LOC:7 COM:0 MVG:0@2@d@
+CCCC_Module@User@class@
+CCCC_ModExt@User@class@sda.cpp@11@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@User@class@sda.cpp@196@definition@F???2@LOC:9 COM:2 MVG:0@2@d@
+CCCC_ModExt@User@class@sda.cpp@11@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@User@class@sda.cpp@196@definition@F???2@LOC:9 COM:2 MVG:0@2@d@
+CCCC_Module@academicOfficer@class@
+CCCC_ModExt@academicOfficer@class@sda.cpp@15@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@academicOfficer@class@sda.cpp@952@definition@F???0@LOC:9 COM:11 MVG:0@0@d@
+CCCC_ModExt@academicOfficer@class@sda.cpp@15@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@academicOfficer@class@sda.cpp@952@definition@F???0@LOC:9 COM:11 MVG:0@0@d@
+CCCC_Module@address@class@
+CCCC_ModExt@address@class@sda.cpp@9@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@address@class@sda.cpp@42@definition@F???2@LOC:7 COM:0 MVG:0@2@d@
+CCCC_ModExt@address@class@sda.cpp@9@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@address@class@sda.cpp@42@definition@F???2@LOC:7 COM:0 MVG:0@2@d@
+CCCC_Module@anonymous@@
+CCCC_Module@bool@@
+CCCC_Module@char@builtin@
+CCCC_ModExt@char@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@double@builtin@
+CCCC_ModExt@double@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@float@builtin@
+CCCC_ModExt@float@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@int@builtin@
+CCCC_ModExt@int@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@long@builtin@
+CCCC_ModExt@long@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@ofstream@@
+CCCC_Module@pc@struct@
+CCCC_ModExt@pc@struct@sda.cpp@34@definition@F???0@LOC:6 COM:0 MVG:0@0@d@
+CCCC_ModExt@pc@struct@sda.cpp@34@definition@F???0@LOC:6 COM:0 MVG:0@0@d@
+CCCC_Module@string@@
+CCCC_Module@unordered_map@@
+CCCC_Module@vector@@
+CCCC_Module@void@builtin@
+CCCC_ModExt@void@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Member@CLO@CLO@@()@
+CCCC_MemExt@CLO@CLO@@()@sda.cpp@443@definition@F???0@LOC:6 COM:0 MVG:0@0@d@
+CCCC_MemExt@CLO@CLO@@()@sda.cpp@443@definition@F???0@LOC:6 COM:0 MVG:0@0@d@
+CCCC_Member@CLO@CLO@@(...)@
+CCCC_MemExt@CLO@CLO@@(...)@sda.cpp@449@definition@F???0@LOC:7 COM:0 MVG:0@0@d@
+CCCC_MemExt@CLO@CLO@@(...)@sda.cpp@449@definition@F???0@LOC:7 COM:0 MVG:0@0@d@
+CCCC_Member@CLO@CLO@@(CLO &)@
+CCCC_MemExt@CLO@CLO@@(CLO &)@sda.cpp@457@definition@F???0@LOC:7 COM:0 MVG:0@0@d@
+CCCC_MemExt@CLO@CLO@@(CLO &)@sda.cpp@457@definition@F???0@LOC:7 COM:0 MVG:0@0@d@
+CCCC_Member@CLO@addPLO@@(PLO *)@
+CCCC_MemExt@CLO@addPLO@@(PLO *)@sda.cpp@471@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_MemExt@CLO@addPLO@@(PLO *)@sda.cpp@471@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@CLO@getDes@@()@
+CCCC_MemExt@CLO@getDes@@()@sda.cpp@510@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_MemExt@CLO@getDes@@()@sda.cpp@510@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_Member@CLO@getcId@@()@
+CCCC_MemExt@CLO@getcId@@()@sda.cpp@466@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_MemExt@CLO@getcId@@()@sda.cpp@466@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@CLO@getcourseid@@()@
+CCCC_MemExt@CLO@getcourseid@@()@sda.cpp@520@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_MemExt@CLO@getcourseid@@()@sda.cpp@520@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@CLO@saveCLO@@(int)@
+CCCC_MemExt@CLO@saveCLO@@(int)@sda.cpp@526@definition@F???0@LOC:21 COM:0 MVG:2@0@d@
+CCCC_MemExt@CLO@saveCLO@@(int)@sda.cpp@526@definition@F???0@LOC:21 COM:0 MVG:2@0@d@
+CCCC_Member@CLO@setcourseid@@(int)@
+CCCC_MemExt@CLO@setcourseid@@(int)@sda.cpp@515@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_MemExt@CLO@setcourseid@@(int)@sda.cpp@515@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@CLO@updateCLO@@()@
+CCCC_MemExt@CLO@updateCLO@@()@sda.cpp@476@definition@F???0@LOC:29 COM:0 MVG:4@0@d@
+CCCC_MemExt@CLO@updateCLO@@()@sda.cpp@476@definition@F???0@LOC:29 COM:0 MVG:4@0@d@
+CCCC_Member@Course@Course@@(...)@
+CCCC_MemExt@Course@Course@@(...)@sda.cpp@577@definition@F???0@LOC:8 COM:0 MVG:0@0@d@
+CCCC_MemExt@Course@Course@@(...)@sda.cpp@577@definition@F???0@LOC:8 COM:0 MVG:0@0@d@
+CCCC_Member@Course@Course@@(Course &)@
+CCCC_MemExt@Course@Course@@(Course &)@sda.cpp@585@definition@F???0@LOC:7 COM:0 MVG:0@0@d@
+CCCC_MemExt@Course@Course@@(Course &)@sda.cpp@585@definition@F???0@LOC:7 COM:0 MVG:0@0@d@
+CCCC_Member@Course@addCLO@@(CLO *)@
+CCCC_MemExt@Course@addCLO@@(CLO *)@sda.cpp@598@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_MemExt@Course@addCLO@@(CLO *)@sda.cpp@598@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@Course@getcName@@()@
+CCCC_MemExt@Course@getcName@@()@sda.cpp@603@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_MemExt@Course@getcName@@()@sda.cpp@603@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_Member@Course@getprogramid@@()@
+CCCC_MemExt@Course@getprogramid@@()@sda.cpp@574@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_MemExt@Course@getprogramid@@()@sda.cpp@574@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_Member@Course@savecourse@@(int)@
+CCCC_MemExt@Course@savecourse@@(int)@sda.cpp@715@definition@F???0@LOC:23 COM:14 MVG:3@0@d@
+CCCC_MemExt@Course@savecourse@@(int)@sda.cpp@715@definition@F???0@LOC:23 COM:14 MVG:3@0@d@
+CCCC_Member@Course@setprogramid@@(int)@
+CCCC_MemExt@Course@setprogramid@@(int)@sda.cpp@571@definition@F???0@LOC:3 COM:0 MVG:0@0@d@
+CCCC_MemExt@Course@setprogramid@@(int)@sda.cpp@571@definition@F???0@LOC:3 COM:0 MVG:0@0@d@
+CCCC_Member@Course@updateCourse@@(pc *)@
+CCCC_MemExt@Course@updateCourse@@(pc *)@sda.cpp@607@definition@F???0@LOC:76 COM:4 MVG:12@0@d@
+CCCC_MemExt@Course@updateCourse@@(pc *)@sda.cpp@607@definition@F???0@LOC:76 COM:4 MVG:12@0@d@
+CCCC_Member@Course@~Course@@()@
+CCCC_MemExt@Course@~Course@@()@sda.cpp@593@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_MemExt@Course@~Course@@()@sda.cpp@593@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@Date@Date@@(...)@
+CCCC_MemExt@Date@Date@@(...)@sda.cpp@159@definition@F???0@LOC:7 COM:0 MVG:0@0@d@
+CCCC_MemExt@Date@Date@@(...)@sda.cpp@159@definition@F???0@LOC:7 COM:0 MVG:0@0@d@
+CCCC_Member@Date@Date@@(Date &)@
+CCCC_MemExt@Date@Date@@(Date &)@sda.cpp@167@definition@F???0@LOC:7 COM:4 MVG:0@0@d@
+CCCC_MemExt@Date@Date@@(Date &)@sda.cpp@167@definition@F???0@LOC:7 COM:4 MVG:0@0@d@
+CCCC_Member@Date@getdate@@()@
+CCCC_MemExt@Date@getdate@@()@sda.cpp@142@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_MemExt@Date@getdate@@()@sda.cpp@142@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@Date@getday@@()@
+CCCC_MemExt@Date@getday@@()@sda.cpp@137@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_MemExt@Date@getday@@()@sda.cpp@137@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@Date@getmonth@@()@
+CCCC_MemExt@Date@getmonth@@()@sda.cpp@132@definition@F???0@LOC:4 COM:1 MVG:1@0@d@
+CCCC_MemExt@Date@getmonth@@()@sda.cpp@132@definition@F???0@LOC:4 COM:1 MVG:1@0@d@
+CCCC_Member@Date@getyear@@()@
+CCCC_MemExt@Date@getyear@@()@sda.cpp@147@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_MemExt@Date@getyear@@()@sda.cpp@147@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@Date@printDate@@(void)@
+CCCC_MemExt@Date@printDate@@(void)@sda.cpp@152@definition@F???0@LOC:5 COM:0 MVG:0@0@d@
+CCCC_MemExt@Date@printDate@@(void)@sda.cpp@152@definition@F???0@LOC:5 COM:0 MVG:0@0@d@
+CCCC_Member@Date@saveDate@@(ofstream &)@
+CCCC_MemExt@Date@saveDate@@(ofstream &)@sda.cpp@183@definition@F???0@LOC:8 COM:0 MVG:0@0@d@
+CCCC_MemExt@Date@saveDate@@(ofstream &)@sda.cpp@183@definition@F???0@LOC:8 COM:0 MVG:0@0@d@
+CCCC_Member@Date@~Date@@()@
+CCCC_MemExt@Date@~Date@@()@sda.cpp@181@definition@F???0@LOC:1 COM:1 MVG:0@0@d@
+CCCC_MemExt@Date@~Date@@()@sda.cpp@181@definition@F???0@LOC:1 COM:1 MVG:0@0@d@
+CCCC_Member@Evaluation@Evaluation@@(...)@
+CCCC_MemExt@Evaluation@Evaluation@@(...)@sda.cpp@1684@definition@F???0@LOC:6 COM:0 MVG:0@0@d@
+CCCC_MemExt@Evaluation@Evaluation@@(...)@sda.cpp@1684@definition@F???0@LOC:6 COM:0 MVG:0@0@d@
+CCCC_Member@Evaluation@Evaluation@@(Evaluation &)@
+CCCC_MemExt@Evaluation@Evaluation@@(Evaluation &)@sda.cpp@1691@definition@F???0@LOC:6 COM:0 MVG:0@0@d@
+CCCC_MemExt@Evaluation@Evaluation@@(Evaluation &)@sda.cpp@1691@definition@F???0@LOC:6 COM:0 MVG:0@0@d@
+CCCC_Member@Evaluation@createQuestion@@(...)@
+CCCC_MemExt@Evaluation@createQuestion@@(...)@sda.cpp@1704@definition@F???0@LOC:5 COM:1 MVG:0@0@d@
+CCCC_MemExt@Evaluation@createQuestion@@(...)@sda.cpp@1704@definition@F???0@LOC:5 COM:1 MVG:0@0@d@
+CCCC_Member@Evaluation@getTotalMarks@@()@
+CCCC_MemExt@Evaluation@getTotalMarks@@()@sda.cpp@1712@definition@F???0@LOC:10 COM:0 MVG:2@0@d@
+CCCC_MemExt@Evaluation@getTotalMarks@@()@sda.cpp@1712@definition@F???0@LOC:10 COM:0 MVG:2@0@d@
+CCCC_Member@Evaluation@geteId@@()@
+CCCC_MemExt@Evaluation@geteId@@()@sda.cpp@1699@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_MemExt@Evaluation@geteId@@()@sda.cpp@1699@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@Evaluation@saveevaluation@@()@
+CCCC_MemExt@Evaluation@saveevaluation@@()@sda.cpp@1726@definition@F???0@LOC:18 COM:3 MVG:2@0@d@
+CCCC_MemExt@Evaluation@saveevaluation@@()@sda.cpp@1726@definition@F???0@LOC:18 COM:3 MVG:2@0@d@
+CCCC_Member@Evaluation@updateEvaluation@@()@
+CCCC_MemExt@Evaluation@updateEvaluation@@()@sda.cpp@1757@definition@F???0@LOC:68 COM:0 MVG:6@0@d@
+CCCC_MemExt@Evaluation@updateEvaluation@@()@sda.cpp@1757@definition@F???0@LOC:68 COM:0 MVG:6@0@d@
+CCCC_Member@PLO@PLO@@()@
+CCCC_MemExt@PLO@PLO@@()@sda.cpp@288@definition@F???0@LOC:6 COM:0 MVG:0@0@d@
+CCCC_MemExt@PLO@PLO@@()@sda.cpp@288@definition@F???0@LOC:6 COM:0 MVG:0@0@d@
+CCCC_Member@PLO@PLO@@(...)@
+CCCC_MemExt@PLO@PLO@@(...)@sda.cpp@294@definition@F???0@LOC:7 COM:0 MVG:0@0@d@
+CCCC_MemExt@PLO@PLO@@(...)@sda.cpp@294@definition@F???0@LOC:7 COM:0 MVG:0@0@d@
+CCCC_Member@PLO@PLO@@(PLO &)@
+CCCC_MemExt@PLO@PLO@@(PLO &)@sda.cpp@302@definition@F???0@LOC:7 COM:0 MVG:0@0@d@
+CCCC_MemExt@PLO@PLO@@(PLO &)@sda.cpp@302@definition@F???0@LOC:7 COM:0 MVG:0@0@d@
+CCCC_Member@PLO@getDes@@()@
+CCCC_MemExt@PLO@getDes@@()@sda.cpp@330@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_MemExt@PLO@getDes@@()@sda.cpp@330@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@PLO@getPLOid@@()@
+CCCC_MemExt@PLO@getPLOid@@()@sda.cpp@311@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_MemExt@PLO@getPLOid@@()@sda.cpp@311@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@PLO@getpId@@()@
+CCCC_MemExt@PLO@getpId@@()@sda.cpp@326@definition@F???0@LOC:4 COM:8 MVG:1@0@d@
+CCCC_MemExt@PLO@getpId@@()@sda.cpp@326@definition@F???0@LOC:4 COM:8 MVG:1@0@d@
+CCCC_Member@PLO@getprogramid@@()@
+CCCC_MemExt@PLO@getprogramid@@()@sda.cpp@285@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_MemExt@PLO@getprogramid@@()@sda.cpp@285@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_Member@PLO@savePLO@@(int)@
+CCCC_MemExt@PLO@savePLO@@(int)@sda.cpp@408@definition@F???0@LOC:15 COM:0 MVG:1@0@d@
+CCCC_MemExt@PLO@savePLO@@(int)@sda.cpp@408@definition@F???0@LOC:15 COM:0 MVG:1@0@d@
+CCCC_Member@PLO@setprogramid@@(int)@
+CCCC_MemExt@PLO@setprogramid@@(int)@sda.cpp@282@definition@F???0@LOC:3 COM:0 MVG:0@0@d@
+CCCC_MemExt@PLO@setprogramid@@(int)@sda.cpp@282@definition@F???0@LOC:3 COM:0 MVG:0@0@d@
+CCCC_Member@PLO@updatePLO@@()@
+CCCC_MemExt@PLO@updatePLO@@()@sda.cpp@335@definition@F???0@LOC:30 COM:36 MVG:2@0@d@
+CCCC_MemExt@PLO@updatePLO@@()@sda.cpp@335@definition@F???0@LOC:30 COM:36 MVG:2@0@d@
+CCCC_Member@Program@Program@@(...)@
+CCCC_MemExt@Program@Program@@(...)@sda.cpp@768@definition@F???0@LOC:5 COM:0 MVG:0@0@d@
+CCCC_MemExt@Program@Program@@(...)@sda.cpp@768@definition@F???0@LOC:5 COM:0 MVG:0@0@d@
+CCCC_Member@Program@Program@@(Program &)@
+CCCC_MemExt@Program@Program@@(Program &)@sda.cpp@774@definition@F???0@LOC:5 COM:0 MVG:0@0@d@
+CCCC_MemExt@Program@Program@@(Program &)@sda.cpp@774@definition@F???0@LOC:5 COM:0 MVG:0@0@d@
+CCCC_Member@Program@addCourse@@(Course *)@
+CCCC_MemExt@Program@addCourse@@(Course *)@sda.cpp@779@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_MemExt@Program@addCourse@@(Course *)@sda.cpp@779@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@Program@addPLO@@(PLO *)@
+CCCC_MemExt@Program@addPLO@@(PLO *)@sda.cpp@783@definition@F???0@LOC:3 COM:0 MVG:0@0@d@
+CCCC_MemExt@Program@addPLO@@(PLO *)@sda.cpp@783@definition@F???0@LOC:3 COM:0 MVG:0@0@d@
+CCCC_Member@Program@getpName@@()@
+CCCC_MemExt@Program@getpName@@()@sda.cpp@902@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_MemExt@Program@getpName@@()@sda.cpp@902@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_Member@Program@saveprogram@@()@
+CCCC_MemExt@Program@saveprogram@@()@sda.cpp@916@definition@F???0@LOC:20 COM:5 MVG:3@0@d@
+CCCC_MemExt@Program@saveprogram@@()@sda.cpp@916@definition@F???0@LOC:20 COM:5 MVG:3@0@d@
+CCCC_Member@Program@updateProgram@@(pc *)@
+CCCC_MemExt@Program@updateProgram@@(pc *)@sda.cpp@786@definition@F???0@LOC:94 COM:7 MVG:15@0@d@
+CCCC_MemExt@Program@updateProgram@@(pc *)@sda.cpp@786@definition@F???0@LOC:94 COM:7 MVG:15@0@d@
+CCCC_Member@Question@Question@@()@
+CCCC_MemExt@Question@Question@@()@sda.cpp@1586@definition@F???0@LOC:5 COM:0 MVG:0@0@d@
+CCCC_MemExt@Question@Question@@()@sda.cpp@1586@definition@F???0@LOC:5 COM:0 MVG:0@0@d@
+CCCC_Member@Question@Question@@(...)@
+CCCC_MemExt@Question@Question@@(...)@sda.cpp@1591@definition@F???0@LOC:7 COM:0 MVG:0@0@d@
+CCCC_MemExt@Question@Question@@(...)@sda.cpp@1591@definition@F???0@LOC:7 COM:0 MVG:0@0@d@
+CCCC_Member@Question@addtestedCLO@@(CLO *)@
+CCCC_MemExt@Question@addtestedCLO@@(CLO *)@sda.cpp@1609@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_MemExt@Question@addtestedCLO@@(CLO *)@sda.cpp@1609@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@Question@getMarks@@()@
+CCCC_MemExt@Question@getMarks@@()@sda.cpp@1605@definition@F???0@LOC:4 COM:7 MVG:1@0@d@
+CCCC_MemExt@Question@getMarks@@()@sda.cpp@1605@definition@F???0@LOC:4 COM:7 MVG:1@0@d@
+CCCC_Member@Question@savequestion@@(int)@
+CCCC_MemExt@Question@savequestion@@(int)@sda.cpp@1644@definition@F???0@LOC:22 COM:0 MVG:2@0@d@
+CCCC_MemExt@Question@savequestion@@(int)@sda.cpp@1644@definition@F???0@LOC:22 COM:0 MVG:2@0@d@
+CCCC_Member@Question@updateQuestion@@()@
+CCCC_MemExt@Question@updateQuestion@@()@sda.cpp@1614@definition@F???0@LOC:28 COM:0 MVG:3@0@d@
+CCCC_MemExt@Question@updateQuestion@@()@sda.cpp@1614@definition@F???0@LOC:28 COM:0 MVG:3@0@d@
+CCCC_Member@Teacher@Teacher@@()@
+CCCC_MemExt@Teacher@Teacher@@()@sda.cpp@1936@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_MemExt@Teacher@Teacher@@()@sda.cpp@1936@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@Teacher@Teacher@@(...)@
+CCCC_MemExt@Teacher@Teacher@@(...)@sda.cpp@1949@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_MemExt@Teacher@Teacher@@(...)@sda.cpp@1949@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@Teacher@Teacher@@(Teacher &)@
+CCCC_MemExt@Teacher@Teacher@@(Teacher &)@sda.cpp@1954@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_MemExt@Teacher@Teacher@@(Teacher &)@sda.cpp@1954@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@Teacher@addCourseTaught@@(Course *)@
+CCCC_MemExt@Teacher@addCourseTaught@@(Course *)@sda.cpp@1958@definition@F???0@LOC:3 COM:0 MVG:0@0@d@
+CCCC_MemExt@Teacher@addCourseTaught@@(Course *)@sda.cpp@1958@definition@F???0@LOC:3 COM:0 MVG:0@0@d@
+CCCC_Member@Teacher@addEvaluationHandled@@(Evaluation *)@
+CCCC_MemExt@Teacher@addEvaluationHandled@@(Evaluation *)@sda.cpp@1961@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_MemExt@Teacher@addEvaluationHandled@@(Evaluation *)@sda.cpp@1961@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@Teacher@addTopicHandled@@(Topic *)@
+CCCC_MemExt@Teacher@addTopicHandled@@(Topic *)@sda.cpp@1965@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_MemExt@Teacher@addTopicHandled@@(Topic *)@sda.cpp@1965@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@Teacher@addevaluation@@()@
+CCCC_MemExt@Teacher@addevaluation@@()@sda.cpp@2122@definition@F???0@LOC:45 COM:0 MVG:4@0@d@
+CCCC_MemExt@Teacher@addevaluation@@()@sda.cpp@2122@definition@F???0@LOC:45 COM:0 MVG:4@0@d@
+CCCC_Member@Teacher@addtopic@@()@
+CCCC_MemExt@Teacher@addtopic@@()@sda.cpp@2023@definition@F???0@LOC:27 COM:0 MVG:4@0@d@
+CCCC_MemExt@Teacher@addtopic@@()@sda.cpp@2023@definition@F???0@LOC:27 COM:0 MVG:4@0@d@
+CCCC_Member@Teacher@getusername@@()@
+CCCC_MemExt@Teacher@getusername@@()@sda.cpp@1945@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_MemExt@Teacher@getusername@@()@sda.cpp@1945@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_Member@Teacher@manageEvaluation@@()@
+CCCC_MemExt@Teacher@manageEvaluation@@()@sda.cpp@2171@definition@F???0@LOC:12 COM:1 MVG:2@0@d@
+CCCC_MemExt@Teacher@manageEvaluation@@()@sda.cpp@2171@definition@F???0@LOC:12 COM:1 MVG:2@0@d@
+CCCC_Member@Teacher@manageTopic@@()@
+CCCC_MemExt@Teacher@manageTopic@@()@sda.cpp@2053@definition@F???0@LOC:12 COM:0 MVG:2@0@d@
+CCCC_MemExt@Teacher@manageTopic@@()@sda.cpp@2053@definition@F???0@LOC:12 COM:0 MVG:2@0@d@
+CCCC_Member@Teacher@removeevaluation@@()@
+CCCC_MemExt@Teacher@removeevaluation@@()@sda.cpp@2076@definition@F???0@LOC:20 COM:1 MVG:4@0@d@
+CCCC_MemExt@Teacher@removeevaluation@@()@sda.cpp@2076@definition@F???0@LOC:20 COM:1 MVG:4@0@d@
+CCCC_Member@Teacher@removetopic@@()@
+CCCC_MemExt@Teacher@removetopic@@()@sda.cpp@1976@definition@F???0@LOC:20 COM:1 MVG:4@0@d@
+CCCC_MemExt@Teacher@removetopic@@()@sda.cpp@1976@definition@F???0@LOC:20 COM:1 MVG:4@0@d@
+CCCC_Member@Teacher@saveteacher@@()@
+CCCC_MemExt@Teacher@saveteacher@@()@sda.cpp@2189@definition@F???0@LOC:51 COM:0 MVG:7@0@d@
+CCCC_MemExt@Teacher@saveteacher@@()@sda.cpp@2189@definition@F???0@LOC:51 COM:0 MVG:7@0@d@
+CCCC_Member@Teacher@setUsername@@(string)@
+CCCC_MemExt@Teacher@setUsername@@(string)@sda.cpp@1942@definition@F???0@LOC:3 COM:0 MVG:0@0@d@
+CCCC_MemExt@Teacher@setUsername@@(string)@sda.cpp@1942@definition@F???0@LOC:3 COM:0 MVG:0@0@d@
+CCCC_Member@Teacher@updateevaluation@@()@
+CCCC_MemExt@Teacher@updateevaluation@@()@sda.cpp@2101@definition@F???0@LOC:18 COM:0 MVG:3@0@d@
+CCCC_MemExt@Teacher@updateevaluation@@()@sda.cpp@2101@definition@F???0@LOC:18 COM:0 MVG:3@0@d@
+CCCC_Member@Teacher@updatetopic@@()@
+CCCC_MemExt@Teacher@updatetopic@@()@sda.cpp@1999@definition@F???0@LOC:21 COM:0 MVG:4@0@d@
+CCCC_MemExt@Teacher@updatetopic@@()@sda.cpp@1999@definition@F???0@LOC:21 COM:0 MVG:4@0@d@
+CCCC_Member@Topic@Topic@@(...)@
+CCCC_MemExt@Topic@Topic@@(...)@sda.cpp@1837@definition@F???0@LOC:5 COM:0 MVG:0@0@d@
+CCCC_MemExt@Topic@Topic@@(...)@sda.cpp@1837@definition@F???0@LOC:5 COM:0 MVG:0@0@d@
+CCCC_Member@Topic@Topic@@(Topic &)@
+CCCC_MemExt@Topic@Topic@@(Topic &)@sda.cpp@1842@definition@F???0@LOC:5 COM:0 MVG:0@0@d@
+CCCC_MemExt@Topic@Topic@@(Topic &)@sda.cpp@1842@definition@F???0@LOC:5 COM:0 MVG:0@0@d@
+CCCC_Member@Topic@addcoveredCLO@@(CLO *)@
+CCCC_MemExt@Topic@addcoveredCLO@@(CLO *)@sda.cpp@1847@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_MemExt@Topic@addcoveredCLO@@(CLO *)@sda.cpp@1847@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@Topic@getTopicid@@()@
+CCCC_MemExt@Topic@getTopicid@@()@sda.cpp@1852@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_MemExt@Topic@getTopicid@@()@sda.cpp@1852@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@Topic@savetopics@@()@
+CCCC_MemExt@Topic@savetopics@@()@sda.cpp@1898@definition@F???0@LOC:18 COM:0 MVG:2@0@d@
+CCCC_MemExt@Topic@savetopics@@()@sda.cpp@1898@definition@F???0@LOC:18 COM:0 MVG:2@0@d@
+CCCC_Member@Topic@updateTopic@@()@
+CCCC_MemExt@Topic@updateTopic@@()@sda.cpp@1857@definition@F???0@LOC:34 COM:2 MVG:4@0@d@
+CCCC_MemExt@Topic@updateTopic@@()@sda.cpp@1857@definition@F???0@LOC:34 COM:2 MVG:4@0@d@
+CCCC_Member@User@User@@()@
+CCCC_MemExt@User@User@@()@sda.cpp@204@definition@F???0@LOC:4 COM:1 MVG:0@0@d@
+CCCC_MemExt@User@User@@()@sda.cpp@204@definition@F???0@LOC:4 COM:1 MVG:0@0@d@
+CCCC_Member@User@User@@(...)@
+CCCC_MemExt@User@User@@(...)@sda.cpp@210@definition@F???0@LOC:9 COM:1 MVG:0@0@d@
+CCCC_MemExt@User@User@@(...)@sda.cpp@210@definition@F???0@LOC:9 COM:1 MVG:0@0@d@
+CCCC_Member@User@User@@(User &)@
+CCCC_MemExt@User@User@@(User &)@sda.cpp@222@definition@F???0@LOC:9 COM:0 MVG:0@0@d@
+CCCC_MemExt@User@User@@(User &)@sda.cpp@222@definition@F???0@LOC:9 COM:0 MVG:0@0@d@
+CCCC_Member@User@getDate@@()@
+CCCC_MemExt@User@getDate@@()@sda.cpp@240@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_MemExt@User@getDate@@()@sda.cpp@240@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_Member@User@getadress@@()@
+CCCC_MemExt@User@getadress@@()@sda.cpp@243@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_MemExt@User@getadress@@()@sda.cpp@243@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_Member@User@getgender@@()@
+CCCC_MemExt@User@getgender@@()@sda.cpp@246@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_MemExt@User@getgender@@()@sda.cpp@246@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_Member@User@getname@@()@
+CCCC_MemExt@User@getname@@()@sda.cpp@233@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_MemExt@User@getname@@()@sda.cpp@233@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_Member@User@getuId@@()@
+CCCC_MemExt@User@getuId@@()@sda.cpp@237@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_MemExt@User@getuId@@()@sda.cpp@237@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_Member@User@saveaddress@@(ofstream &)@
+CCCC_MemExt@User@saveaddress@@(ofstream &)@sda.cpp@261@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_MemExt@User@saveaddress@@(ofstream &)@sda.cpp@261@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@User@savedate@@(ofstream &)@
+CCCC_MemExt@User@savedate@@(ofstream &)@sda.cpp@256@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_MemExt@User@savedate@@(ofstream &)@sda.cpp@256@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@User@~User@@()@
+CCCC_MemExt@User@~User@@()@sda.cpp@251@definition@F???0@LOC:3 COM:1 MVG:0@0@d@
+CCCC_MemExt@User@~User@@()@sda.cpp@251@definition@F???0@LOC:3 COM:1 MVG:0@0@d@
+CCCC_Member@academicOfficer@academicOfficer@@(...)@
+CCCC_MemExt@academicOfficer@academicOfficer@@(...)@sda.cpp@970@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_MemExt@academicOfficer@academicOfficer@@(...)@sda.cpp@970@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@academicOfficer@academicOfficer@@(academicOfficer &)@
+CCCC_MemExt@academicOfficer@academicOfficer@@(academicOfficer &)@sda.cpp@974@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_MemExt@academicOfficer@academicOfficer@@(academicOfficer &)@sda.cpp@974@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@academicOfficer@addCLO@@()@
+CCCC_MemExt@academicOfficer@addCLO@@()@sda.cpp@1419@definition@F???0@LOC:30 COM:0 MVG:4@0@d@
+CCCC_MemExt@academicOfficer@addCLO@@()@sda.cpp@1419@definition@F???0@LOC:30 COM:0 MVG:4@0@d@
+CCCC_Member@academicOfficer@addCLOSManaged@@(CLO *)@
+CCCC_MemExt@academicOfficer@addCLOSManaged@@(CLO *)@sda.cpp@990@definition@F???0@LOC:5 COM:0 MVG:0@0@d@
+CCCC_MemExt@academicOfficer@addCLOSManaged@@(CLO *)@sda.cpp@990@definition@F???0@LOC:5 COM:0 MVG:0@0@d@
+CCCC_Member@academicOfficer@addCourseManaged@@(Course *)@
+CCCC_MemExt@academicOfficer@addCourseManaged@@(Course *)@sda.cpp@979@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_MemExt@academicOfficer@addCourseManaged@@(Course *)@sda.cpp@979@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@academicOfficer@addPLO@@()@
+CCCC_MemExt@academicOfficer@addPLO@@()@sda.cpp@1339@definition@F???0@LOC:30 COM:0 MVG:4@0@d@
+CCCC_MemExt@academicOfficer@addPLO@@()@sda.cpp@1339@definition@F???0@LOC:30 COM:0 MVG:4@0@d@
+CCCC_Member@academicOfficer@addPLOSManaged@@(PLO *)@
+CCCC_MemExt@academicOfficer@addPLOSManaged@@(PLO *)@sda.cpp@996@definition@F???0@LOC:5 COM:0 MVG:0@0@d@
+CCCC_MemExt@academicOfficer@addPLOSManaged@@(PLO *)@sda.cpp@996@definition@F???0@LOC:5 COM:0 MVG:0@0@d@
+CCCC_Member@academicOfficer@addProgramManaged@@(Program *)@
+CCCC_MemExt@academicOfficer@addProgramManaged@@(Program *)@sda.cpp@984@definition@F???0@LOC:5 COM:0 MVG:0@0@d@
+CCCC_MemExt@academicOfficer@addProgramManaged@@(Program *)@sda.cpp@984@definition@F???0@LOC:5 COM:0 MVG:0@0@d@
+CCCC_Member@academicOfficer@addcourse@@()@
+CCCC_MemExt@academicOfficer@addcourse@@()@sda.cpp@1204@definition@F???0@LOC:40 COM:1 MVG:5@0@d@
+CCCC_MemExt@academicOfficer@addcourse@@()@sda.cpp@1204@definition@F???0@LOC:40 COM:1 MVG:5@0@d@
+CCCC_Member@academicOfficer@addprogram@@()@
+CCCC_MemExt@academicOfficer@addprogram@@()@sda.cpp@1042@definition@F???0@LOC:43 COM:3 MVG:8@0@d@
+CCCC_MemExt@academicOfficer@addprogram@@()@sda.cpp@1042@definition@F???0@LOC:43 COM:3 MVG:8@0@d@
+CCCC_Member@academicOfficer@getUsername@@()@
+CCCC_MemExt@academicOfficer@getUsername@@()@sda.cpp@967@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_MemExt@academicOfficer@getUsername@@()@sda.cpp@967@definition@F???0@LOC:3 COM:0 MVG:1@0@d@
+CCCC_Member@academicOfficer@manageCLOS@@()@
+CCCC_MemExt@academicOfficer@manageCLOS@@()@sda.cpp@1475@definition@F???0@LOC:12 COM:0 MVG:2@0@d@
+CCCC_MemExt@academicOfficer@manageCLOS@@()@sda.cpp@1475@definition@F???0@LOC:12 COM:0 MVG:2@0@d@
+CCCC_Member@academicOfficer@manageCourses@@()@
+CCCC_MemExt@academicOfficer@manageCourses@@()@sda.cpp@1271@definition@F???0@LOC:14 COM:1 MVG:2@0@d@
+CCCC_MemExt@academicOfficer@manageCourses@@()@sda.cpp@1271@definition@F???0@LOC:14 COM:1 MVG:2@0@d@
+CCCC_Member@academicOfficer@managePLOS@@()@
+CCCC_MemExt@academicOfficer@managePLOS@@()@sda.cpp@1377@definition@F???0@LOC:12 COM:1 MVG:2@0@d@
+CCCC_MemExt@academicOfficer@managePLOS@@()@sda.cpp@1377@definition@F???0@LOC:12 COM:1 MVG:2@0@d@
+CCCC_Member@academicOfficer@managePrograms@@()@
+CCCC_MemExt@academicOfficer@managePrograms@@()@sda.cpp@1154@definition@F???0@LOC:16 COM:2 MVG:2@0@d@
+CCCC_MemExt@academicOfficer@managePrograms@@()@sda.cpp@1154@definition@F???0@LOC:16 COM:2 MVG:2@0@d@
+CCCC_Member@academicOfficer@printCLOS@@()@
+CCCC_MemExt@academicOfficer@printCLOS@@()@sda.cpp@1022@definition@F???0@LOC:7 COM:0 MVG:1@0@d@
+CCCC_MemExt@academicOfficer@printCLOS@@()@sda.cpp@1022@definition@F???0@LOC:7 COM:0 MVG:1@0@d@
+CCCC_Member@academicOfficer@printPLOS@@()@
+CCCC_MemExt@academicOfficer@printPLOS@@()@sda.cpp@1031@definition@F???0@LOC:7 COM:0 MVG:1@0@d@
+CCCC_MemExt@academicOfficer@printPLOS@@()@sda.cpp@1031@definition@F???0@LOC:7 COM:0 MVG:1@0@d@
+CCCC_Member@academicOfficer@printcourses@@()@
+CCCC_MemExt@academicOfficer@printcourses@@()@sda.cpp@1012@definition@F???0@LOC:7 COM:0 MVG:1@0@d@
+CCCC_MemExt@academicOfficer@printcourses@@()@sda.cpp@1012@definition@F???0@LOC:7 COM:0 MVG:1@0@d@
+CCCC_Member@academicOfficer@printprograms@@()@
+CCCC_MemExt@academicOfficer@printprograms@@()@sda.cpp@1002@definition@F???0@LOC:7 COM:0 MVG:1@0@d@
+CCCC_MemExt@academicOfficer@printprograms@@()@sda.cpp@1002@definition@F???0@LOC:7 COM:0 MVG:1@0@d@
+CCCC_Member@academicOfficer@removeCLO@@()@
+CCCC_MemExt@academicOfficer@removeCLO@@()@sda.cpp@1453@definition@F???0@LOC:18 COM:0 MVG:3@0@d@
+CCCC_MemExt@academicOfficer@removeCLO@@()@sda.cpp@1453@definition@F???0@LOC:18 COM:0 MVG:3@0@d@
+CCCC_Member@academicOfficer@removePLO@@()@
+CCCC_MemExt@academicOfficer@removePLO@@()@sda.cpp@1315@definition@F???0@LOC:22 COM:0 MVG:4@0@d@
+CCCC_MemExt@academicOfficer@removePLO@@()@sda.cpp@1315@definition@F???0@LOC:22 COM:0 MVG:4@0@d@
+CCCC_Member@academicOfficer@removecourse@@()@
+CCCC_MemExt@academicOfficer@removecourse@@()@sda.cpp@1247@definition@F???0@LOC:22 COM:0 MVG:4@0@d@
+CCCC_MemExt@academicOfficer@removecourse@@()@sda.cpp@1247@definition@F???0@LOC:22 COM:0 MVG:4@0@d@
+CCCC_Member@academicOfficer@removeprogram@@()@
+CCCC_MemExt@academicOfficer@removeprogram@@()@sda.cpp@1098@definition@F???0@LOC:22 COM:1 MVG:4@0@d@
+CCCC_MemExt@academicOfficer@removeprogram@@()@sda.cpp@1098@definition@F???0@LOC:22 COM:1 MVG:4@0@d@
+CCCC_Member@academicOfficer@saveacademicofficer@@()@
+CCCC_MemExt@academicOfficer@saveacademicofficer@@()@sda.cpp@1492@definition@F???0@LOC:60 COM:0 MVG:9@0@d@
+CCCC_MemExt@academicOfficer@saveacademicofficer@@()@sda.cpp@1492@definition@F???0@LOC:60 COM:0 MVG:9@0@d@
+CCCC_Member@academicOfficer@setUsername@@(string)@
+CCCC_MemExt@academicOfficer@setUsername@@(string)@sda.cpp@964@definition@F???0@LOC:3 COM:0 MVG:0@0@d@
+CCCC_MemExt@academicOfficer@setUsername@@(string)@sda.cpp@964@definition@F???0@LOC:3 COM:0 MVG:0@0@d@
+CCCC_Member@academicOfficer@updateCLO@@()@
+CCCC_MemExt@academicOfficer@updateCLO@@()@sda.cpp@1395@definition@F???0@LOC:19 COM:1 MVG:3@0@d@
+CCCC_MemExt@academicOfficer@updateCLO@@()@sda.cpp@1395@definition@F???0@LOC:19 COM:1 MVG:3@0@d@
+CCCC_Member@academicOfficer@updatePLO@@()@
+CCCC_MemExt@academicOfficer@updatePLO@@()@sda.cpp@1292@definition@F???0@LOC:20 COM:1 MVG:3@0@d@
+CCCC_MemExt@academicOfficer@updatePLO@@()@sda.cpp@1292@definition@F???0@LOC:20 COM:1 MVG:3@0@d@
+CCCC_Member@academicOfficer@updatecourse@@()@
+CCCC_MemExt@academicOfficer@updatecourse@@()@sda.cpp@1177@definition@F???0@LOC:24 COM:1 MVG:4@0@d@
+CCCC_MemExt@academicOfficer@updatecourse@@()@sda.cpp@1177@definition@F???0@LOC:24 COM:1 MVG:4@0@d@
+CCCC_Member@academicOfficer@updateprogram@@()@
+CCCC_MemExt@academicOfficer@updateprogram@@()@sda.cpp@1124@definition@F???0@LOC:28 COM:0 MVG:6@0@d@
+CCCC_MemExt@academicOfficer@updateprogram@@()@sda.cpp@1124@definition@F???0@LOC:28 COM:0 MVG:6@0@d@
+CCCC_Member@address@address@@(address &)@
+CCCC_MemExt@address@address@@(address &)@sda.cpp@100@definition@F???0@LOC:6 COM:0 MVG:0@0@d@
+CCCC_MemExt@address@address@@(address &)@sda.cpp@100@definition@F???0@LOC:6 COM:0 MVG:0@0@d@
+CCCC_Member@address@address@@(const char *,const char *,const char *)@
+CCCC_MemExt@address@address@@(const char *,const char *,const char *)@sda.cpp@73@definition@F???0@LOC:13 COM:0 MVG:0@0@d@
+CCCC_MemExt@address@address@@(const char *,const char *,const char *)@sda.cpp@73@definition@F???0@LOC:13 COM:0 MVG:0@0@d@
+CCCC_Member@address@getAddress@@()@
+CCCC_MemExt@address@getAddress@@()@sda.cpp@87@definition@F???0@LOC:6 COM:0 MVG:1@0@d@
+CCCC_MemExt@address@getAddress@@()@sda.cpp@87@definition@F???0@LOC:6 COM:0 MVG:1@0@d@
+CCCC_Member@address@getcity@@()@
+CCCC_MemExt@address@getcity@@()@sda.cpp@60@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_MemExt@address@getcity@@()@sda.cpp@60@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@address@getcompleteAddress@@()@
+CCCC_MemExt@address@getcompleteAddress@@()@sda.cpp@66@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_MemExt@address@getcompleteAddress@@()@sda.cpp@66@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@address@gethouseno@@()@
+CCCC_MemExt@address@gethouseno@@()@sda.cpp@49@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_MemExt@address@gethouseno@@()@sda.cpp@49@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@address@getstreet@@()@
+CCCC_MemExt@address@getstreet@@()@sda.cpp@54@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_MemExt@address@getstreet@@()@sda.cpp@54@definition@F???0@LOC:4 COM:0 MVG:1@0@d@
+CCCC_Member@address@operator =@@(const address &)@
+CCCC_MemExt@address@operator =@@(const address &)@sda.cpp@93@definition@F???0@LOC:7 COM:0 MVG:1@0@d@
+CCCC_MemExt@address@operator =@@(const address &)@sda.cpp@93@definition@F???0@LOC:7 COM:0 MVG:1@0@d@
+CCCC_Member@address@saveAddress@@(ofstream &)@
+CCCC_MemExt@address@saveAddress@@(ofstream &)@sda.cpp@108@definition@F???0@LOC:5 COM:2 MVG:0@0@d@
+CCCC_MemExt@address@saveAddress@@(ofstream &)@sda.cpp@108@definition@F???0@LOC:5 COM:2 MVG:0@0@d@
+CCCC_Member@anonymous@logIn@@(int &)@
+CCCC_MemExt@anonymous@logIn@@(int &)@sda.cpp@2311@definition@F???0@LOC:77 COM:0 MVG:18@0@d@
+CCCC_MemExt@anonymous@logIn@@(int &)@sda.cpp@2311@definition@F???0@LOC:77 COM:0 MVG:18@0@d@
+CCCC_Member@anonymous@main@@()@
+CCCC_MemExt@anonymous@main@@()@sda.cpp@2400@definition@F???0@LOC:92 COM:117 MVG:12@0@d@
+CCCC_MemExt@anonymous@main@@()@sda.cpp@2400@definition@F???0@LOC:92 COM:117 MVG:12@0@d@
+CCCC_Member@anonymous@printAllCLOS@@()@
+CCCC_MemExt@anonymous@printAllCLOS@@()@sda.cpp@29@declaration@F???2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_MemExt@anonymous@printAllCLOS@@()@sda.cpp@2283@definition@F???0@LOC:8 COM:0 MVG:1@0@d@
+CCCC_MemExt@anonymous@printAllCLOS@@()@sda.cpp@29@declaration@F???2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_MemExt@anonymous@printAllCLOS@@()@sda.cpp@2283@definition@F???0@LOC:8 COM:0 MVG:1@0@d@
+CCCC_Member@anonymous@printAllCourses@@()@
+CCCC_MemExt@anonymous@printAllCourses@@()@sda.cpp@28@declaration@F???2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_MemExt@anonymous@printAllCourses@@()@sda.cpp@2272@definition@F???0@LOC:8 COM:0 MVG:1@0@d@
+CCCC_MemExt@anonymous@printAllCourses@@()@sda.cpp@28@declaration@F???2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_MemExt@anonymous@printAllCourses@@()@sda.cpp@2272@definition@F???0@LOC:8 COM:0 MVG:1@0@d@
+CCCC_Member@anonymous@printAllPLOS@@()@
+CCCC_MemExt@anonymous@printAllPLOS@@()@sda.cpp@30@declaration@F???2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_MemExt@anonymous@printAllPLOS@@()@sda.cpp@2293@definition@F???0@LOC:8 COM:0 MVG:1@0@d@
+CCCC_MemExt@anonymous@printAllPLOS@@()@sda.cpp@30@declaration@F???2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_MemExt@anonymous@printAllPLOS@@()@sda.cpp@2293@definition@F???0@LOC:8 COM:0 MVG:1@0@d@
+CCCC_Member@anonymous@printAllPrograms@@()@
+CCCC_MemExt@anonymous@printAllPrograms@@()@sda.cpp@27@declaration@F???2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_MemExt@anonymous@printAllPrograms@@()@sda.cpp@2261@definition@F???0@LOC:8 COM:0 MVG:1@0@d@
+CCCC_MemExt@anonymous@printAllPrograms@@()@sda.cpp@27@declaration@F???2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_MemExt@anonymous@printAllPrograms@@()@sda.cpp@2261@definition@F???0@LOC:8 COM:0 MVG:1@0@d@
+CCCC_UseRel@PLO@CLO@
+CCCC_UseExt@PLO@CLO@sda.cpp@471@pass by reference@F???0@*@0@p@
+CCCC_UseExt@PLO@CLO@sda.cpp@471@pass by reference@F???0@*@0@p@
+CCCC_UseRel@bool@CLO@
+CCCC_UseExt@bool@CLO@sda.cpp@439@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseExt@bool@CLO@sda.cpp@439@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseRel@vector@CLO@
+CCCC_UseExt@vector@CLO@sda.cpp@441@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseExt@vector@CLO@sda.cpp@441@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseRel@CLO@Course@
+CCCC_UseExt@CLO@Course@sda.cpp@598@pass by reference@F???0@*@0@p@
+CCCC_UseExt@CLO@Course@sda.cpp@598@pass by reference@F???0@*@0@p@
+CCCC_UseRel@vector@Course@
+CCCC_UseExt@vector@Course@sda.cpp@565@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseExt@vector@Course@sda.cpp@565@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseRel@ofstream@Date@
+CCCC_UseExt@ofstream@Date@sda.cpp@183@pass by reference@F???0@*@0@p@
+CCCC_UseExt@ofstream@Date@sda.cpp@183@pass by reference@F???0@*@0@p@
+CCCC_UseRel@Date@Evaluation@
+CCCC_UseExt@Date@Evaluation@sda.cpp@1679@has by reference@F???2@LOC:0 COM:0 MVG:0@2@h@
+CCCC_UseExt@Date@Evaluation@sda.cpp@1679@has by reference@F???2@LOC:0 COM:0 MVG:0@2@h@
+CCCC_UseRel@unordered_map@Evaluation@
+CCCC_UseExt@unordered_map@Evaluation@sda.cpp@1681@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseExt@unordered_map@Evaluation@sda.cpp@1681@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseRel@bool@PLO@
+CCCC_UseExt@bool@PLO@sda.cpp@276@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseExt@bool@PLO@sda.cpp@276@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseRel@Course@Program@
+CCCC_UseExt@Course@Program@sda.cpp@779@pass by reference@F???0@*@0@p@
+CCCC_UseExt@Course@Program@sda.cpp@779@pass by reference@F???0@*@0@p@
+CCCC_UseRel@PLO@Program@
+CCCC_UseExt@PLO@Program@sda.cpp@783@pass by reference@F???0@*@0@p@
+CCCC_UseExt@PLO@Program@sda.cpp@783@pass by reference@F???0@*@0@p@
+CCCC_UseRel@vector@Program@
+CCCC_UseExt@vector@Program@sda.cpp@764@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseExt@vector@Program@sda.cpp@765@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseExt@vector@Program@sda.cpp@764@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseExt@vector@Program@sda.cpp@765@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseRel@CLO@Question@
+CCCC_UseExt@CLO@Question@sda.cpp@1609@pass by reference@F???0@*@0@p@
+CCCC_UseExt@CLO@Question@sda.cpp@1609@pass by reference@F???0@*@0@p@
+CCCC_UseRel@vector@Question@
+CCCC_UseExt@vector@Question@sda.cpp@1584@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseExt@vector@Question@sda.cpp@1584@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseRel@Course@Teacher@
+CCCC_UseExt@Course@Teacher@sda.cpp@1958@pass by reference@F???0@*@0@p@
+CCCC_UseExt@Course@Teacher@sda.cpp@1958@pass by reference@F???0@*@0@p@
+CCCC_UseRel@Evaluation@Teacher@
+CCCC_UseExt@Evaluation@Teacher@sda.cpp@1961@pass by reference@F???0@*@0@p@
+CCCC_UseExt@Evaluation@Teacher@sda.cpp@1961@pass by reference@F???0@*@0@p@
+CCCC_UseRel@Topic@Teacher@
+CCCC_UseExt@Topic@Teacher@sda.cpp@1965@pass by reference@F???0@*@0@p@
+CCCC_UseExt@Topic@Teacher@sda.cpp@1965@pass by reference@F???0@*@0@p@
+CCCC_UseRel@User@Teacher@
+CCCC_UseExt@User@Teacher@sda.cpp@1925@inheritance@F???0@*@0@I@
+CCCC_UseExt@User@Teacher@sda.cpp@1925@inheritance@F???0@*@0@I@
+CCCC_UseRel@string@Teacher@
+CCCC_UseExt@string@Teacher@sda.cpp@1931@has by value@F???0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@string@Teacher@sda.cpp@1942@pass by value@F???0@*@0@P@
+CCCC_UseExt@string@Teacher@sda.cpp@1931@has by value@F???0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@string@Teacher@sda.cpp@1942@pass by value@F???0@*@0@P@
+CCCC_UseRel@vector@Teacher@
+CCCC_UseExt@vector@Teacher@sda.cpp@1928@has by value@F???0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@vector@Teacher@sda.cpp@1929@has by value@F???0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@vector@Teacher@sda.cpp@1930@has by value@F???0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@vector@Teacher@sda.cpp@1928@has by value@F???0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@vector@Teacher@sda.cpp@1929@has by value@F???0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@vector@Teacher@sda.cpp@1930@has by value@F???0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseRel@CLO@Topic@
+CCCC_UseExt@CLO@Topic@sda.cpp@1847@pass by reference@F???0@*@0@p@
+CCCC_UseExt@CLO@Topic@sda.cpp@1847@pass by reference@F???0@*@0@p@
+CCCC_UseRel@vector@Topic@
+CCCC_UseExt@vector@Topic@sda.cpp@1835@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseExt@vector@Topic@sda.cpp@1835@has by value@F???2@LOC:0 COM:0 MVG:0@2@H@
+CCCC_UseRel@Date@User@
+CCCC_UseExt@Date@User@sda.cpp@200@has by reference@F???2@LOC:0 COM:0 MVG:0@2@h@
+CCCC_UseExt@Date@User@sda.cpp@200@has by reference@F???2@LOC:0 COM:0 MVG:0@2@h@
+CCCC_UseRel@address@User@
+CCCC_UseExt@address@User@sda.cpp@201@has by reference@F???2@LOC:0 COM:0 MVG:0@2@h@
+CCCC_UseExt@address@User@sda.cpp@201@has by reference@F???2@LOC:0 COM:0 MVG:0@2@h@
+CCCC_UseRel@ofstream@User@
+CCCC_UseExt@ofstream@User@sda.cpp@256@pass by reference@F???0@*@0@p@
+CCCC_UseExt@ofstream@User@sda.cpp@261@pass by reference@F???0@*@0@p@
+CCCC_UseExt@ofstream@User@sda.cpp@256@pass by reference@F???0@*@0@p@
+CCCC_UseExt@ofstream@User@sda.cpp@261@pass by reference@F???0@*@0@p@
+CCCC_UseRel@CLO@academicOfficer@
+CCCC_UseExt@CLO@academicOfficer@sda.cpp@990@pass by reference@F???0@*@0@p@
+CCCC_UseExt@CLO@academicOfficer@sda.cpp@990@pass by reference@F???0@*@0@p@
+CCCC_UseRel@Course@academicOfficer@
+CCCC_UseExt@Course@academicOfficer@sda.cpp@979@pass by reference@F???0@*@0@p@
+CCCC_UseExt@Course@academicOfficer@sda.cpp@979@pass by reference@F???0@*@0@p@
+CCCC_UseRel@PLO@academicOfficer@
+CCCC_UseExt@PLO@academicOfficer@sda.cpp@996@pass by reference@F???0@*@0@p@
+CCCC_UseExt@PLO@academicOfficer@sda.cpp@996@pass by reference@F???0@*@0@p@
+CCCC_UseRel@Program@academicOfficer@
+CCCC_UseExt@Program@academicOfficer@sda.cpp@984@pass by reference@F???0@*@0@p@
+CCCC_UseExt@Program@academicOfficer@sda.cpp@984@pass by reference@F???0@*@0@p@
+CCCC_UseRel@User@academicOfficer@
+CCCC_UseExt@User@academicOfficer@sda.cpp@952@inheritance@F???0@*@0@I@
+CCCC_UseExt@User@academicOfficer@sda.cpp@952@inheritance@F???0@*@0@I@
+CCCC_UseRel@string@academicOfficer@
+CCCC_UseExt@string@academicOfficer@sda.cpp@959@has by value@F???0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@string@academicOfficer@sda.cpp@964@pass by value@F???0@*@0@P@
+CCCC_UseExt@string@academicOfficer@sda.cpp@959@has by value@F???0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@string@academicOfficer@sda.cpp@964@pass by value@F???0@*@0@P@
+CCCC_UseRel@vector@academicOfficer@
+CCCC_UseExt@vector@academicOfficer@sda.cpp@955@has by value@F???0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@vector@academicOfficer@sda.cpp@956@has by value@F???0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@vector@academicOfficer@sda.cpp@957@has by value@F???0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@vector@academicOfficer@sda.cpp@958@has by value@F???0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@vector@academicOfficer@sda.cpp@955@has by value@F???0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@vector@academicOfficer@sda.cpp@956@has by value@F???0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@vector@academicOfficer@sda.cpp@957@has by value@F???0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@vector@academicOfficer@sda.cpp@958@has by value@F???0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseRel@ofstream@address@
+CCCC_UseExt@ofstream@address@sda.cpp@108@pass by reference@F???0@*@0@p@
+CCCC_UseExt@ofstream@address@sda.cpp@108@pass by reference@F???0@*@0@p@
+CCCC_RejExt@sda.cpp@1@<file scope items>@F???0@LOC:5 COM:0 MVG:0@0@r@
+CCCC_RejExt@sda.cpp@1@<file scope items>@F???0@LOC:6 COM:0 MVG:0@0@r@

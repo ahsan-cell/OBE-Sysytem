@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Detailed report on module academicOfficer-->
+<CCCC_Project>
+<module_summary>
+<lines_of_code value="1006" level="1" />
+<lines_of_code_per_member_function value="******" level="0" />
+<McCabes_cyclomatic_complexity value="148" level="0" />
+<McCabes_cyclomatic_complexity_per_member_function value="******" level="2" />
+<lines_of_code value="46" level="0" />
+<lines_of_code_per_member_function value="********" level="2" />
+<lines_of_code_per_line_of_comment value="21.870" level="1" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="3.217" level="0" />
+<weighted_methods_per_class_unity value="29" level="0" />
+<weighted_methods_per_class_visibility value="29" level="0" />
+<depth_of_inheritance_tree value="1" level="0" />
+<number_of_children value="0" level="0" />
+<coupling_between_objects value="7" level="0" />
+<IF4 value="0" level="0" />
+<IF4_per_member_function value="********" level="0" />
+<IF4_visible value="0" level="0" />
+<IF4_visible_per_member_function value="********" level="0" />
+<IF4_concrete value="0" level="0" />
+<IF4_concrete_per_member_function value="********" level="0" />
+</module_summary>
+<module_detail>
+<description>declaration</description>
+<source_reference file="sda.cpp" line="15" />
+<lines_of_code value="1" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+<description>definition</description>
+<source_reference file="sda.cpp" line="952" />
+<lines_of_code value="9" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="11" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+<description>declaration</description>
+<source_reference file="sda.cpp" line="15" />
+<lines_of_code value="1" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+<description>definition</description>
+<source_reference file="sda.cpp" line="952" />
+<lines_of_code value="9" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="11" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</module_detail>
+<procedural_detail>
+<member_function>
+<name>academicOfficer(...)</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="970" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="970" />
+</extent>
+<lines_of_code value="8" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>academicOfficer(academicOfficer &amp;)</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="974" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="974" />
+</extent>
+<lines_of_code value="8" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>addCLO()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1419" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1419" />
+</extent>
+<lines_of_code value="60" level="1" />
+<McCabes_cyclomatic_complexity value="8" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="******" level="2" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="******" level="2" />
+</member_function>
+<member_function>
+<name>addCLOSManaged(CLO *)</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="990" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="990" />
+</extent>
+<lines_of_code value="10" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>addCourseManaged(Course *)</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="979" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="979" />
+</extent>
+<lines_of_code value="8" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>addPLO()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1339" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1339" />
+</extent>
+<lines_of_code value="60" level="1" />
+<McCabes_cyclomatic_complexity value="8" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="******" level="2" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="******" level="2" />
+</member_function>
+<member_function>
+<name>addPLOSManaged(PLO *)</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="996" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="996" />
+</extent>
+<lines_of_code value="10" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>addProgramManaged(Program *)</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="984" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="984" />
+</extent>
+<lines_of_code value="10" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>addcourse()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1204" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1204" />
+</extent>
+<lines_of_code value="80" level="1" />
+<McCabes_cyclomatic_complexity value="10" level="0" />
+<lines_of_comment value="2" level="0" />
+<lines_of_code_per_line_of_comment value="40.000" level="2" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="5.000" level="0" />
+</member_function>
+<member_function>
+<name>addprogram()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1042" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1042" />
+</extent>
+<lines_of_code value="86" level="1" />
+<McCabes_cyclomatic_complexity value="16" level="1" />
+<lines_of_comment value="6" level="0" />
+<lines_of_code_per_line_of_comment value="14.333" level="1" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="2.667" level="0" />
+</member_function>
+<member_function>
+<name>getUsername()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="967" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="967" />
+</extent>
+<lines_of_code value="6" level="0" />
+<McCabes_cyclomatic_complexity value="2" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>manageCLOS()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1475" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1475" />
+</extent>
+<lines_of_code value="24" level="0" />
+<McCabes_cyclomatic_complexity value="4" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="******" level="2" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>manageCourses()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1271" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1271" />
+</extent>
+<lines_of_code value="28" level="0" />
+<McCabes_cyclomatic_complexity value="4" level="0" />
+<lines_of_comment value="2" level="0" />
+<lines_of_code_per_line_of_comment value="14.000" level="1" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>managePLOS()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1377" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1377" />
+</extent>
+<lines_of_code value="24" level="0" />
+<McCabes_cyclomatic_complexity value="4" level="0" />
+<lines_of_comment value="2" level="0" />
+<lines_of_code_per_line_of_comment value="12.000" level="1" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>managePrograms()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1154" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1154" />
+</extent>
+<lines_of_code value="32" level="1" />
+<McCabes_cyclomatic_complexity value="4" level="0" />
+<lines_of_comment value="4" level="0" />
+<lines_of_code_per_line_of_comment value="8.000" level="1" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>printCLOS()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1022" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1022" />
+</extent>
+<lines_of_code value="14" level="0" />
+<McCabes_cyclomatic_complexity value="2" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>printPLOS()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1031" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1031" />
+</extent>
+<lines_of_code value="14" level="0" />
+<McCabes_cyclomatic_complexity value="2" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>printcourses()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1012" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1012" />
+</extent>
+<lines_of_code value="14" level="0" />
+<McCabes_cyclomatic_complexity value="2" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>printprograms()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1002" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1002" />
+</extent>
+<lines_of_code value="14" level="0" />
+<McCabes_cyclomatic_complexity value="2" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>removeCLO()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1453" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1453" />
+</extent>
+<lines_of_code value="36" level="1" />
+<McCabes_cyclomatic_complexity value="6" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="******" level="2" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="******" level="2" />
+</member_function>
+<member_function>
+<name>removePLO()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1315" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1315" />
+</extent>
+<lines_of_code value="44" level="1" />
+<McCabes_cyclomatic_complexity value="8" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="******" level="2" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="******" level="2" />
+</member_function>
+<member_function>
+<name>removecourse()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1247" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1247" />
+</extent>
+<lines_of_code value="44" level="1" />
+<McCabes_cyclomatic_complexity value="8" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="******" level="2" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="******" level="2" />
+</member_function>
+<member_function>
+<name>removeprogram()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1098" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1098" />
+</extent>
+<lines_of_code value="44" level="1" />
+<McCabes_cyclomatic_complexity value="8" level="0" />
+<lines_of_comment value="2" level="0" />
+<lines_of_code_per_line_of_comment value="22.000" level="1" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="4.000" level="0" />
+</member_function>
+<member_function>
+<name>saveacademicofficer()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1492" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1492" />
+</extent>
+<lines_of_code value="120" level="2" />
+<McCabes_cyclomatic_complexity value="18" level="1" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="******" level="2" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="******" level="2" />
+</member_function>
+<member_function>
+<name>setUsername(string)</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="964" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="964" />
+</extent>
+<lines_of_code value="6" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>updateCLO()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1395" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1395" />
+</extent>
+<lines_of_code value="38" level="1" />
+<McCabes_cyclomatic_complexity value="6" level="0" />
+<lines_of_comment value="2" level="0" />
+<lines_of_code_per_line_of_comment value="19.000" level="1" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="3.000" level="0" />
+</member_function>
+<member_function>
+<name>updatePLO()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1292" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1292" />
+</extent>
+<lines_of_code value="40" level="1" />
+<McCabes_cyclomatic_complexity value="6" level="0" />
+<lines_of_comment value="2" level="0" />
+<lines_of_code_per_line_of_comment value="20.000" level="1" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="3.000" level="0" />
+</member_function>
+<member_function>
+<name>updatecourse()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1177" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1177" />
+</extent>
+<lines_of_code value="48" level="1" />
+<McCabes_cyclomatic_complexity value="8" level="0" />
+<lines_of_comment value="2" level="0" />
+<lines_of_code_per_line_of_comment value="24.000" level="1" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="4.000" level="0" />
+</member_function>
+<member_function>
+<name>updateprogram()</name>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1124" />
+</extent>
+<extent>
+<description>definition</description>
+<source_reference file="sda.cpp" line="1124" />
+</extent>
+<lines_of_code value="56" level="1" />
+<McCabes_cyclomatic_complexity value="12" level="1" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="******" level="2" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="******" level="2" />
+</member_function>
+</procedural_detail>
+<structural_detail>
+<module>
+<name>academicOfficer</name>
+<client_module>
+</client_module>
+<supplier_module>
+<name>CLO</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>pass by reference</description>
+<source_reference file="sda.cpp" line="990" />
+</extent>
+<extent>
+<description>pass by reference</description>
+<source_reference file="sda.cpp" line="990" />
+</extent>
+<name>Course</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>pass by reference</description>
+<source_reference file="sda.cpp" line="979" />
+</extent>
+<extent>
+<description>pass by reference</description>
+<source_reference file="sda.cpp" line="979" />
+</extent>
+<name>PLO</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>pass by reference</description>
+<source_reference file="sda.cpp" line="996" />
+</extent>
+<extent>
+<description>pass by reference</description>
+<source_reference file="sda.cpp" line="996" />
+</extent>
+<name>Program</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>pass by reference</description>
+<source_reference file="sda.cpp" line="984" />
+</extent>
+<extent>
+<description>pass by reference</description>
+<source_reference file="sda.cpp" line="984" />
+</extent>
+<name>User</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>inheritance</description>
+<source_reference file="sda.cpp" line="952" />
+</extent>
+<extent>
+<description>inheritance</description>
+<source_reference file="sda.cpp" line="952" />
+</extent>
+<name>string</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>has by value</description>
+<source_reference file="sda.cpp" line="959" />
+</extent>
+<extent>
+<description>pass by value</description>
+<source_reference file="sda.cpp" line="964" />
+</extent>
+<extent>
+<description>has by value</description>
+<source_reference file="sda.cpp" line="959" />
+</extent>
+<extent>
+<description>pass by value</description>
+<source_reference file="sda.cpp" line="964" />
+</extent>
+<name>vector</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>has by value</description>
+<source_reference file="sda.cpp" line="955" />
+</extent>
+<extent>
+<description>has by value</description>
+<source_reference file="sda.cpp" line="956" />
+</extent>
+<extent>
+<description>has by value</description>
+<source_reference file="sda.cpp" line="957" />
+</extent>
+<extent>
+<description>has by value</description>
+<source_reference file="sda.cpp" line="958" />
+</extent>
+<extent>
+<description>has by value</description>
+<source_reference file="sda.cpp" line="955" />
+</extent>
+<extent>
+<description>has by value</description>
+<source_reference file="sda.cpp" line="956" />
+</extent>
+<extent>
+<description>has by value</description>
+<source_reference file="sda.cpp" line="957" />
+</extent>
+<extent>
+<description>has by value</description>
+<source_reference file="sda.cpp" line="958" />
+</extent>
+</supplier_module>
+</module>
+</structural_detail>
+</CCCC_Project>
